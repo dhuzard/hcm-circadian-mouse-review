@@ -1,0 +1,15 @@
+{
+  "pilot_name": "hcm_circadian_mouse_demo",
+  "created_at": "2026-10-28T10:39:17+00:00",
+  "package_id": "hcm_circadian_mouse_demo-mapppp-sha256-9abdc4d93cfea98663fecec416c70d1f4d561c826dc98b08f9cff9957bb15530",
+  "mapppp_version": "0.1.0",
+  "domain": "hcm",
+  "pmids": [
+    "39880968",
+    "39371613",
+    "39763604",
+    "39296476",
+    "39534023"
+  ],
+  "corpus_digest": "68b7f6d20b8fe7855a5fa0bee6912c672a3e42b8c7d206cf89139a1dfadcc9f4"
+}

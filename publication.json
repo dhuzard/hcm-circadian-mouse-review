@@ -1,0 +1,9 @@
+{
+  "abstract": "A source-linked pilot review of metadata and evidence for interpreting mouse home-cage circadian locomotor activity studies. The fixed corpus contains five PubMed-indexed papers. Evidence is extracted from titles and abstracts; cross-study comparability, full-method completeness and ontology conformance remain subject to review.",
+  "keywords": ["circadian", "home-cage-monitoring", "mouse"],
+  "license": "MIT",
+  "murmurationCommit": "f14d167571a392979958fa4e2a8b33faf24b8d77",
+  "releaseTag": "v0.1.0",
+  "repositoryUrl": "https://github.com/dhuzard/hcm-circadian-mouse-review",
+  "title": "HCM circadian mouse evidence review (pilot)"
+}
